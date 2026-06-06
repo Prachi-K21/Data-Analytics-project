@@ -1,5 +1,7 @@
 # Data Analytics Project
 
+This project was completed as part of my Data Analytics learning journey and portfolio development.
+
 ## Overview
 This project demonstrates a complete data analytics workflow including:
 
